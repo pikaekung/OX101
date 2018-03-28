@@ -1,0 +1,953 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"o",
+				"o_player"
+			],
+			[
+				"pla",
+				"player_turn"
+			],
+			[
+				"paly",
+				"player_turn"
+			],
+			[
+				"search",
+				"searchResult\tproperty"
+			],
+			[
+				"ng",
+				"ngFor\tAngular 2 ngFor Snippet"
+			],
+			[
+				"signup",
+				"signupStep\tproperty"
+			],
+			[
+				"requre",
+				"require\tvar"
+			],
+			[
+				"email",
+				"emailExistError\tproperty"
+			],
+			[
+				"mobile",
+				"mobile\tproperty"
+			],
+			[
+				"service",
+				"cognito.service\tscript"
+			],
+			[
+				"pas",
+				"passwordConfirmNotMatchError\tproperty"
+			],
+			[
+				"mobil",
+				"mobileNumberError\tproperty"
+			],
+			[
+				"auth",
+				"AuthenResponse\tclass"
+			],
+			[
+				"cha",
+				"chapter\tproperty"
+			],
+			[
+				"ge",
+				"getChapter\tmethod"
+			],
+			[
+				"g",
+				"getChapterList\tproperty"
+			],
+			[
+				"fc",
+				"fictionService\tproperty"
+			],
+			[
+				"get",
+				"getOptions\tmethod"
+			],
+			[
+				"Fict",
+				"FictionService\talias"
+			],
+			[
+				"imp",
+				"import\timports a module …"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"mo",
+				"modalWriteFictionPolicyRef\tproperty"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"co",
+				"config\tinterface"
+			],
+			[
+				"editor",
+				"editorConfig\tfunction"
+			],
+			[
+				"loginBy",
+				"loginByFacebook\tmethod"
+			],
+			[
+				"se",
+				"sendingSignalLogin\tmethod"
+			],
+			[
+				"Var",
+				"VARIABLE\talias"
+			],
+			[
+				"loca",
+				"localStorage\tvar"
+			],
+			[
+				"serv",
+				"fiction.service\tscript"
+			],
+			[
+				"Fiction",
+				"FictionService\talias"
+			],
+			[
+				"bo",
+				"bolder"
+			],
+			[
+				"color",
+				"color-dark-blue"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"form",
+				"FormControl\talias"
+			],
+			[
+				"fire",
+				"firebase-auth.service\tscript"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"a",
+				"API_URI\tproperty"
+			],
+			[
+				"sto",
+				"storyId\tparameter"
+			],
+			[
+				"st",
+				"storiesBookmark\tproperty"
+			],
+			[
+				"stor",
+				"storiesBookmark\tproperty"
+			],
+			[
+				"gets",
+				"getStoryDetailByID\tproperty"
+			],
+			[
+				"to",
+				"toPromise\tproperty"
+			],
+			[
+				"htt",
+				"Http\talias"
+			],
+			[
+				"can",
+				"canActivateChild\tproperty"
+			],
+			[
+				"spo",
+				"SpotNewComponent\talias"
+			],
+			[
+				"storie",
+				"StoriesEditSectionsComponent\talias"
+			],
+			[
+				"stori",
+				"StoriesNewComponent\talias"
+			],
+			[
+				"bac",
+				"background-color: "
+			],
+			[
+				"cl",
+				"class\tclass …"
+			],
+			[
+				"const",
+				"constructor\tkeyword"
+			],
+			[
+				"fo",
+				"forRoot\tmethod"
+			],
+			[
+				"im",
+				"import\timports a module …"
+			],
+			[
+				"set",
+				"setMagnificPopup\tmethod"
+			],
+			[
+				"fileup",
+				"fileUploadElm\tlet"
+			],
+			[
+				"dive",
+				"divEditorId\tlet"
+			],
+			[
+				"Eleme",
+				"ElementRef\talias"
+			],
+			[
+				"element",
+				"ElementRef\talias"
+			],
+			[
+				"parent",
+				"parentNode\tproperty"
+			],
+			[
+				"clas",
+				"classList\tproperty"
+			],
+			[
+				"too",
+				"toolbarFakeAlign\tlocal var"
+			],
+			[
+				"toggle",
+				"toggleClass\tmethod"
+			],
+			[
+				"add",
+				"addClass\tmethod"
+			],
+			[
+				"off",
+				"offset\tmethod"
+			],
+			[
+				"func",
+				"function\tkeyword"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"orgi",
+				"originalImageHeight\tlocal var"
+			],
+			[
+				"origi",
+				"originalImageWidth\tlocal var"
+			],
+			[
+				"or",
+				"originalImageHeight\tlocal var"
+			],
+			[
+				"ima",
+				"imageData\tproperty"
+			],
+			[
+				"on",
+				"onload\tproperty"
+			],
+			[
+				"Rese",
+				"Response\talias"
+			],
+			[
+				"re",
+				"replace\tmethod"
+			],
+			[
+				"mediu",
+				"medium-editor-insert-plugin\texternal module name"
+			],
+			[
+				"MediumE",
+				"MediumInsert\talias"
+			],
+			[
+				"medi",
+				"medium-editor-insert-plugin\texternal module name"
+			],
+			[
+				"JQ",
+				"JQuery\tinterface"
+			],
+			[
+				"angu",
+				"angular2-medium-editor\texternal module name"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"page",
+				"pageList\tproperty"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"me",
+				"mEditerInterface\tinterface"
+			],
+			[
+				"menu",
+				"menu_slug"
+			],
+			[
+				"pos",
+				"postsService\tproperty"
+			],
+			[
+				"Post",
+				"PostsService\talias"
+			],
+			[
+				"pro",
+				"providers\tproperty"
+			],
+			[
+				"ap",
+				"app-routing.module\tscript"
+			],
+			[
+				"impor",
+				"import\tkeyword"
+			],
+			[
+				"boo",
+				"bottom: "
+			],
+			[
+				"border-r",
+				"border-right-color: "
+			],
+			[
+				"paddin",
+				"padding-bottom: "
+			],
+			[
+				"color-g",
+				"color-grey-4"
+			],
+			[
+				"color-o",
+				"color-orange"
+			],
+			[
+				"marin",
+				"margin: "
+			],
+			[
+				"col-r",
+				"color-grey-4"
+			],
+			[
+				"img",
+				"img-responsive"
+			],
+			[
+				"col",
+				"color-grey-4"
+			],
+			[
+				"dec",
+				"text-decoration: "
+			],
+			[
+				"margin-",
+				"margin-bottom: "
+			],
+			[
+				"hid",
+				"hidden-xs"
+			],
+			[
+				"xs-",
+				"visible-xs-block"
+			],
+			[
+				"col-",
+				"col-xs-12"
+			],
+			[
+				"paddin-",
+				"padding-top"
+			],
+			[
+				"color-r",
+				"color-orange"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"color-ra",
+				"color-orange-1"
+			],
+			[
+				"color-gre",
+				"color-grey-4"
+			],
+			[
+				"color-",
+				"color-white"
+			],
+			[
+				"margin",
+				"margin-left: "
+			],
+			[
+				"colo",
+				"color-grey-1"
+			],
+			[
+				"colo-",
+				"color-orange"
+			],
+			[
+				"color-oran",
+				"color-orange-1"
+			],
+			[
+				"border",
+				"border: "
+			],
+			[
+				"marg",
+				"margin: "
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"fon",
+				"font-size: "
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"bacl",
+				"background-color: "
+			],
+			[
+				"font-",
+				"font-size: "
+			],
+			[
+				"pa",
+				"padding-top: "
+			],
+			[
+				"font",
+				"font-family: "
+			],
+			[
+				"mar",
+				"margin: "
+			],
+			[
+				"textal",
+				"text-align: "
+			],
+			[
+				"loo",
+				"logo-mobile"
+			],
+			[
+				"recen",
+				"recent_posts"
+			],
+			[
+				"text",
+				"text-decoration: "
+			],
+			[
+				"al",
+				"alt\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Python-3.5.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Python-3.5.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 119.0,
+		"last_filter": "package control: install",
+		"selected_items":
+		[
+			[
+				"package control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"ss html",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"install pa\t",
+				"Package Control: Install Package"
+			],
+			[
+				"ss a",
+				"Snippet: Angular 2 ngFor Snippet"
+			],
+			[
+				"package instal\t",
+				"Package Control: Install Package"
+			],
+			[
+				"ss ty",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"ss html\t",
+				"Set Syntax: HTML"
+			],
+			[
+				"ss type",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"ss java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ss laba",
+				"Set Syntax: Laravel Blade"
+			],
+			[
+				"ss blad",
+				"Set Syntax: Laravel Blade"
+			],
+			[
+				"sass",
+				"Set Syntax: SCSS"
+			],
+			[
+				"package instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ss css",
+				"Set Syntax: SCSS"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ss ",
+				"Set Syntax: SCSS"
+			],
+			[
+				"packageinstal",
+				"Package Control: Install Package"
+			],
+			[
+				"scss",
+				"Set Syntax: CSS"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"package ",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 424.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"subl --help",
+			"subl",
+			"subl --version"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/AnukH/workspace/OX101/game.py",
+		"/Users/AnukH/workspace/Hello Python/test.py",
+		"/Users/AnukH/workspace/Hello Python/hello.py",
+		"/Users/AnukH/workspace/Hello Python/test.sublime-workspace",
+		"/Users/AnukH/www/tourwow_front/src/app/services/spot.service.ts",
+		"/Users/AnukH/www/tourwow_front/src/assets/css/style.css",
+		"/Users/AnukH/www/tourwow_front/src/app/services/program.service.ts",
+		"/Users/AnukH/www/tourwow_front/src/app/components/program-tour/program-tour-list/program-tour-list.component.ts",
+		"/Users/AnukH/www/tourwow_front/src/app/app.module.ts",
+		"/Users/AnukH/www/tourwow_front/src/app/models/programs/search-programs.model.ts",
+		"/Users/AnukH/www/tourwow_front/src/app/components/program-tour/search-program-tour/search-program-tour.component.html",
+		"/Users/AnukH/www/tourwow_front/src/app/components/program-tour/search-program-tour/search-program-tour.component.ts",
+		"/Users/AnukH/www/tourwow_front/src/app/modules/base.module.ts",
+		"/Users/AnukH/www/tourwow_front/src/app/modules/input-search.module.ts",
+		"/Users/AnukH/www/tourwow_front/src/app/modules/vacation.module.ts",
+		"/Users/AnukH/www/tourwow_front/src/app/modules/program-tour.module.ts",
+		"/Users/AnukH/www/tourwow_front/src/app/components/spots/spot-list/spot-list.component.ts",
+		"/Users/AnukH/www/tourwow_front/src/app/components/home/home.component.html",
+		"/Users/AnukH/www/tourwow_front/src/app/shared-components/search-box/search-box.component.ts",
+		"/Users/AnukH/www/tourwow_front/src/app/shared-components/search-box/search-box.component.html",
+		"/Users/AnukH/www/tourwow_front/src/app/modules/thaidate.module.ts",
+		"/Users/AnukH/www/tourwow_front/src/app/pipes/thaidate.pipe.ts",
+		"/Users/AnukH/www/tourwow_front/src/app/shared-components/search-components/input-search/input-search.component.ts",
+		"/Users/AnukH/www/tourwow_front/src/app/app-routing.module.ts",
+		"/Users/AnukH/www/tourwow_front/src/app/modules/order.module.ts",
+		"/Users/AnukH/www/tourwow_front/src/app/modules/member.module.ts",
+		"/Users/AnukH/www/tourwow_front/src/app/modules/handler-error.module.ts",
+		"/Users/AnukH/www/tourwow_front/src/app/shared-components/search-components/input-search/input-search.component.html",
+		"/Users/AnukH/www/tourwow_front/src/app/variables/endpoints.ts",
+		"/Users/AnukH/www/tourwow_front/src/styles.css",
+		"/Users/AnukH/www/tourwow_front/package.json",
+		"/Users/AnukH/www/tourwow_front/src/app/components/vacations/vacation-list/vacation-list.component.ts",
+		"/Users/AnukH/www/tourwow_front/src/app/components/program-tour/program-tour-list/program-tour-list.component.html",
+		"/Users/AnukH/www/tourwow_front/src/app/components/vacations/vacation-list/vacation-list.component.html",
+		"/Users/AnukH/www/tourwow_front/src/app/services/http.service.ts",
+		"/Users/AnukH/www/tourwow_front/src/app/shared-components/search-box/search-box.component.spec.ts",
+		"/Users/AnukH/www/tourwow_front/src/app/shared-components/header/header.component.ts",
+		"/Users/AnukH/www/tourwow_front/src/app/shared-components/header/header.component.html",
+		"/Users/AnukH/www/tourwow_front/src/app/components/member/signup-step1/signup-step1.component.html",
+		"/Users/AnukH/www/tourwow_front/src/app/components/member/signup-step1/signup-step1.component.ts",
+		"/Users/AnukH/www/tourwow_front/src/app/components/member/signup-step3/signup-step3.component.ts",
+		"/Users/AnukH/www/tourwow_front/src/app/components/member/signup-step3/signup-step3.component.html",
+		"/Users/AnukH/www/tourwow_front/src/app/services/facebook.service.ts",
+		"/Users/AnukH/www/tourwow_front/src/app/services/cognito.service.ts",
+		"/Users/AnukH/www/tourwow_front/src/app/components/member/signup-step3/signup-step3.component.css",
+		"/Users/AnukH/www/tourwow_front/src/app/variables/variables.ts",
+		"/Users/AnukH/www/tourwow_front/src/index.html",
+		"/Users/AnukH/www/tourwow_front/src/tsconfig.app.json",
+		"/Users/AnukH/www/tourwow_front/tsconfig.json",
+		"/Users/AnukH/www/tourwow_front/src/app/services/authentication.service.ts",
+		"/Users/AnukH/www/tourwow_front/src/app/directives/number-validate.directive.ts",
+		"/Applications/Sublime Text.app/Contents/MacOS/Packages/HTML-ng2.sublime-package",
+		"/Applications/Sublime Text.app/Contents/MacOS/Packages/_HTML.sublime-package/HTML.sublime-package",
+		"/Applications/Sublime Text.app/Contents/MacOS/Packages/HTML.sublime-package",
+		"/Users/AnukH/www/wanderwow_backoffice/src/app/shared/texteditor/texteditor.component.ts",
+		"/Users/AnukH/www/wanderwow_backoffice/src/app/components/stories/stories-new/stories-new.component.html",
+		"/Users/AnukH/www/tourwow_front/src/app/components/member/signup-step1/signup-step1.component.css",
+		"/Users/AnukH/www/tourwow_front/src/app/layouts/main/main.component.ts",
+		"/Users/AnukH/www/tourwow_front/src/app/components/order/payment-order/payment-order.component.html",
+		"/Users/AnukH/www/tourwow_front/src/assets/js/script.js",
+		"/Users/AnukH/www/wanderwow_front/src/app/app.module.ts",
+		"/Users/AnukH/Downloads/force/force/src/app/main/main-material.html",
+		"/Users/AnukH/www/tourwow_backoffice/src/app/services/auth-guard.service.ts",
+		"/Users/AnukH/www/tourwow_backoffice/src/app/app.module.ts",
+		"/Users/AnukH/www/tourwow_backoffice/src/app/services/cognito.service.ts",
+		"/Users/AnukH/www/tourwow_backoffice/src/app/components/admin/login/login.component.ts",
+		"/Users/AnukH/www/tourwow_backoffice/src/app/components/admin/login/login-component.html",
+		"/Users/AnukH/www/tourwow_backoffice/src/app/app-routing.module.ts",
+		"/Users/AnukH/www/tourwow_backoffice/src/app/services/authentication.service.ts",
+		"/Users/AnukH/www/aws-cognito-angular2-quickstart/src/app/service/cognito.service.ts",
+		"/Users/AnukH/www/aws-cognito-angular2-quickstart/src/app/public/home.component.ts",
+		"/Users/AnukH/www/maaread_backoffice/src/app/components/user/login/login.component.ts",
+		"/Users/AnukH/www/maaread_backoffice/src/app/services/authen.service.ts",
+		"/Users/AnukH/www/maaread_backoffice/src/app/models/api-response.ts",
+		"/Users/AnukH/www/wanderwow_backoffice/src/app/services/auth.service.ts",
+		"/Users/AnukH/www/aws-cognito-angular2-quickstart/src/app/service/user-login.service.ts",
+		"/Users/AnukH/www/aws-cognito-angular2-quickstart/src/app/public/auth/login/login.component.ts",
+		"/Users/AnukH/www/maaread_website/src/app/components/user/login/login.component.ts",
+		"/Users/AnukH/www/maaread_website/src/app/components/user/login/login.component.html",
+		"/Users/AnukH/www/tourwow_backoffice/src/app/components/admin/login/login-component.scss",
+		"/Users/AnukH/www/tourwow_backoffice/src/app/variables/variables.ts",
+		"/Users/AnukH/www/tourwow_backoffice/src/environments/environment.ts",
+		"/Users/AnukH/www/tourwow_backoffice/src/typings.d.ts",
+		"/Users/AnukH/www/tourwow_backoffice/package.json",
+		"/Users/AnukH/www/tourwow_backoffice/node_modules/@types/node/index.d.ts",
+		"/Users/AnukH/www/tourwow_backoffice/tsconfig.json",
+		"/Users/AnukH/www/tourwow_backoffice/src/tsconfig.app.json",
+		"/Users/AnukH/www/aws-cognito-angular2-quickstart/package.json",
+		"/Users/AnukH/www/aws-cognito-angular2-quickstart/tslint.json",
+		"/Users/AnukH/www/tourwow_backoffice/node_modules/aws-sdk/lib/http_response.d.ts",
+		"/Users/AnukH/www/maaread_website/src/app/models/api-response.ts",
+		"/Users/AnukH/www/maaread_website/src/app/services/authen.service.ts",
+		"/Users/AnukH/www/maaread_website/src/app/components/fiction/fiction-dashboard/fiction-dashboard.component.html",
+		"/Users/AnukH/www/maaread_website/src/app/services/fiction.service.spec.ts",
+		"/Users/AnukH/www/maaread_website/src/app/config/endpoint.config.ts",
+		"/Users/AnukH/www/maaread_website/src/app/components/fiction/fiction-detail/fiction-detail.component.html",
+		"/Users/AnukH/www/maaread_website/src/app/components/fiction/edit-fiction/edit-fiction.component.ts",
+		"/Users/AnukH/www/maaread_website/src/app/components/home/home.component.html",
+		"/Users/AnukH/www/maaread_website/src/app/components/fiction/chapter/edit-chapter/edit-chapter.component.ts",
+		"/Users/AnukH/www/maaread_website/src/app/components/fiction/write-fiction/write-fiction.component.html",
+		"/Users/AnukH/www/maaread_website/src/app/components/fiction/write-fiction/write-fiction.component.ts",
+		"/Users/AnukH/www/maaread_website/src/app/components/fiction/chapter/write-chapter/write-chapter.component.ts",
+		"/Users/AnukH/www/maaread_website/src/app/components/fiction/edit-fiction/edit-fiction.component.html",
+		"/Users/AnukH/www/maaread_website/src/app/components/fiction/chapter/edit-chapter/edit-chapter.component.html",
+		"/Users/AnukH/www/maaread_website/src/app/components/fiction/chapter/chapter-detail/chapter-detail.component.html",
+		"/Users/AnukH/www/maaread_website/src/app/models/fiction.ts",
+		"/Users/AnukH/www/maaread_website/src/app/app-routing.module.ts",
+		"/Users/AnukH/www/maaread_website/src/app/app.module.ts",
+		"/Users/AnukH/www/maaread_website/src/app/components/fiction/fiction-detail/fiction-detail.component.ts",
+		"/Users/AnukH/www/maaread_website/src/app/components/fiction/chapter/edit-chapter/edit-chapter.component.css",
+		"/Users/AnukH/www/maaread_website/src/app/services/chapter.service.ts",
+		"/Users/AnukH/www/maaread_website/src/app/components/fiction/chapter/chapter-detail/chapter-detail.component.ts",
+		"/Users/AnukH/www/maaread_website/src/app/components/fiction/fiction-detail/fiction-detail.component.css",
+		"/Users/AnukH/www/maaread_website/src/app/components/home/home.component.ts",
+		"/Users/AnukH/www/maaread_website/src/app/services/fiction.service.ts",
+		"/Users/AnukH/www/maaread_website/src/app/components/fiction/fiction-dashboard/fiction-dashboard.component.ts",
+		"/Users/AnukH/www/maaread_website/src/app/components/fiction/chapter/write-chapter/write-chapter.component.html",
+		"/Users/AnukH/www/maaread_website/src/app/models/chapter.ts",
+		"/Users/AnukH/www/maaread_website/src/app/components/fiction/chapter/write-chapter/write-chapter.component.css",
+		"/Users/AnukH/www/maaread_website/src/app/components/fiction/edit-fiction/edit-fiction.component.css",
+		"/Users/AnukH/www/maaread_website/src/app/components/shared/user-box/user-box.component.ts",
+		"/Users/AnukH/www/maaread_website/src/app/components/verify-email-warning/verify-email-warning.component.html",
+		"/Users/AnukH/www/maaread_website/src/app/components/fiction/write-fiction/write-fiction.component.css",
+		"/Users/AnukH/www/maaread_website/src/app/app.component.html",
+		"/Users/AnukH/www/maaread_website/src/index.html",
+		"/Users/AnukH/www/maaread_website/src/environments/environment.ts",
+		"/Users/AnukH/www/maaread_website/src/app/components/shared/user-box/user-box.component.css",
+		"/Users/AnukH/www/maaread_website/src/app/components/shared/user-box/user-box.component.html"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 322.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ox101.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 356.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
